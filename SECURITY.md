@@ -4,17 +4,6 @@
 
 NetSwitch takes security seriously. This document outlines our security policies, vulnerability reporting procedures, and the security measures implemented in the application.
 
-## 📋 Table of Contents
-
-- [Supported Versions](#supported-versions)
-- [Security Features](#security-features)
-- [Vulnerability Reporting](#vulnerability-reporting)
-- [Security Best Practices](#security-best-practices)
-- [Known Security Considerations](#known-security-considerations)
-- [Security Auditing](#security-auditing)
-- [Response Timeline](#response-timeline)
-- [Security Contact](#security-contact)
-
 ## 🛡️ Supported Versions
 
 Security updates and patches are provided for the following versions of NetSwitch:

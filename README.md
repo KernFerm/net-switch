@@ -1,8 +1,8 @@
-# NetSwitch v1.0
+# NetSwitch v1.1.1
 
 🌐 **A modern, secure DNS management tool for Windows with an intuitive GUI**
 
-![NetSwitch](https://img.shields.io/badge/NetSwitch-v1.0-purple?style=for-the-badge)
+![NetSwitch](https://img.shields.io/badge/NetSwitch-v1.1.1-purple?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.11.9+-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)
@@ -99,7 +99,7 @@ When "Custom..." is selected, additional fields appear for manual DNS entry with
 ### Method 1: Direct Installation
 ```bash
 # Clone or download the repository
-git clone https://github.com/yourusername/netswitch.git
+git clone https://github.com/kernferm/netswitch.git
 cd netswitch
 
 # Install dependencies
@@ -117,7 +117,7 @@ python net-switch.py
 ```
 
 ### Dependencies
-- `customtkinter>=5.0.0` - Modern UI framework
+- `customtkinter>=5.2.2` - Modern UI framework
 - `tkinter` - Built-in GUI library (included with Python)
 
 ## 📖 Usage
@@ -321,7 +321,7 @@ We welcome contributions to NetSwitch! Here's how you can help:
 ### Development Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/netswitch.git
+git clone https://github.com/kernferm/netswitch.git
 cd netswitch
 
 # Create virtual environment
@@ -388,12 +388,13 @@ limitations under the License.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/netswitch/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/netswitch/discussions)
+- **Issues**: [GitHub Issues](https://github.com/kernferm/netswitch/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/kernferm/netswitch/discussions)
 - **Documentation**: This README and inline code comments
 
 ---
 
 **Made with ❤️ by the NetSwitch team**
 
-*NetSwitch v1.0 - Simplifying DNS management for Windows users*
+*NetSwitch v1.1.1 - Simplifying DNS management for Windows users*
+

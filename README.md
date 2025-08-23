@@ -379,9 +379,10 @@ limitations under the License.
 
 ---
 
-**Made with ❤️ by the NetSwitch team**
+**Made with ❤️ by BubblesTheDev**
 
 *NetSwitch v1.1.1 - Simplifying DNS management for Windows users*
+
 
 
 

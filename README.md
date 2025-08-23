@@ -7,21 +7,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [DNS Providers](#dns-providers)
-- [Security Features](#security-features)
-- [Technical Requirements](#technical-requirements)
-- [Architecture](#architecture)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🔍 Overview
 
 NetSwitch is a comprehensive DNS management application built with Python and CustomTkinter that provides an easy-to-use interface for switching between different DNS providers, managing network adapters, and optimizing internet connectivity on Windows systems.
@@ -397,4 +382,5 @@ limitations under the License.
 **Made with ❤️ by the NetSwitch team**
 
 *NetSwitch v1.1.1 - Simplifying DNS management for Windows users*
+
 

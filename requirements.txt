@@ -1,0 +1,14 @@
+# NetSwitch v1.0 Requirements
+# Python 3.11.9+ required
+
+# Core GUI Framework
+customtkinter>=5.2.2
+
+# Additional dependencies that may be needed
+# tkinter is included with Python standard library
+
+# Optional: For enhanced functionality (uncomment if needed)
+# requests>=2.32.5          # For future online DNS provider updates
+# configparser>=7.2.0       # For configuration file management
+# psutil>=7.0.0             # For advanced network monitoring
+# dnspython>=2.7.0          # For DNS record validation

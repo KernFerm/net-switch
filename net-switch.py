@@ -259,7 +259,7 @@ class NetSwitchApp:
             self.root = root
             
             # Sanitize and validate window title
-            title = sanitize_string("NetSwitch v1.0", 50)
+            title = sanitize_string("NetSwitch v1.1.1", 50)
             self.root.title(title)
             self.root.geometry("620x550")
             self.root.resizable(False, False)
@@ -634,3 +634,4 @@ if __name__ == "__main__":
     root = ctk.CTk()
     app = NetSwitchApp(root)
     root.mainloop()
+

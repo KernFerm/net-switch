@@ -373,8 +373,8 @@ limitations under the License.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/kernferm/netswitch/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/kernferm/netswitch/discussions)
+- **Issues**: [GitHub Issues](https://github.com/KernFerm/net-switch/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/KernFerm/net-switch/discussions)
 - **Documentation**: This README and inline code comments
 
 ---
@@ -382,5 +382,6 @@ limitations under the License.
 **Made with ❤️ by the NetSwitch team**
 
 *NetSwitch v1.1.1 - Simplifying DNS management for Windows users*
+
 
 

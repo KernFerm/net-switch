@@ -10,7 +10,7 @@ Security updates and patches are provided for the following versions of NetSwitc
 
 | Version | Supported          | Security Updates |
 | ------- | ------------------ | ---------------- |
-| 1.0.x   | ✅ Yes             | ✅ Active        |
+| 1.1.1   | ✅ Yes             | ✅ Active        |
 | < 1.0   | ❌ No              | ❌ End of Life   |
 
 **Note**: Only the latest stable release receives security updates. Users are strongly encouraged to update to the latest version.
